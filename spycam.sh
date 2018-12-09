@@ -1,12 +1,20 @@
 #!/bin/bash
-
-SpyCam Video Streamer - captures the video from the camera and streams it to a designated port on its localhost
-SpyCam WebSocket Relay - consumes the streaming video, process the video, and forwards it to a 
-SpyCam WebServer - 
-
+#
+# Maintainer:   jeffskinnerbox@yahoo.com / www.jeffskinnerbox.me
+# Version:      0.1.0
+#
+# DESCRIPTION:
+#
+# NOTE:
+# SpyCam Video Streamer - captures the video from the camera and streams it to a designated port on its localhost
+# SpyCam WebSocket Relay - consumes the streaming video, process the video, and forwards it to a 
+# SpyCam WebServer - 
+#
 # port 8080 used by SpyCam WebServer to stream the video to the world
 # port 8081 WebServer uses it to listen for incoming MPEG-TS streaming video from SpyCam Video Streamer
 # port 8082 is websocket connection establish by WebSocket Relay to be used by the WebServer
+
+
 
 # Parse command line options
 #USAGE="Usage: `basename $0` [-h] -t title -m message"
