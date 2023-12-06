@@ -3,8 +3,10 @@ Maintainer:   jeffskinnerbox@yahoo.com / www.jeffskinnerbox.me
 Version:      0.1
 -->
 
+<div align="center">
+<img src="http://www.foxbyrd.com/wp-content/uploads/2018/02/file-4.jpg" title="These materials require additional work and are not ready for general use." align="center">
+</div>
 
-![work-in-progress](http://worktrade.eu/img/uc.gif "These materials require additional work and are not ready for general use.")
 
 ---
 
@@ -14,6 +16,8 @@ Version:      0.1
 * [Turn an application or script into a shell command](https://stackoverflow.com/questions/6163087/turn-an-application-or-script-into-a-shell-command)
 
 
+
+Better camera? - [Zero Spy Camera for Raspberry Pi Zero](https://www.adafruit.com/product/3508)
 
 
 
